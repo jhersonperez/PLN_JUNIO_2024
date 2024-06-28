@@ -18,8 +18,8 @@ class Model:
     else:
       return "Model not loaded"
   
-model1 = Model("D:/CRATIC_PLN/CLASE_1/backend/models/model2.pkl")
-model2 = Model("D:/CRATIC_PLN/CLASE_1/backend/models/model2.pkl")
-model3 = Model("D:/CRATIC_PLN/CLASE_1/backend/models/model3.pkl")
-model4 = Model("D:/CRATIC_PLN/CLASE_1/backend/models/model4.pkl")
-model5 = Model("D:/CRATIC_PLN/CLASE_1/backend/models/model5.pkl")
+model1 = Model("D:/CRATIC_PLN_UNIM/CLASE_1/backend/models/model2.pkl")
+model2 = Model("D:/CRATIC_PLN_UNIM/CLASE_1/backend/models/model2.pkl")
+model3 = Model("D:/CRATIC_PLN_UNIM/CLASE_1/backend/models/model3.pkl")
+model4 = Model("D:/CRATIC_PLN_UNIM/CLASE_1/backend/models/model4.pkl")
+model5 = Model("D:/CRATIC_PLN_UNIM/CLASE_1/backend/models/model5.pkl")
